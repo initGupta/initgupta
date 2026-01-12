@@ -1,22 +1,29 @@
 # Hi, I’m Dhwaj 👋
 
-I’m a Software Consultant who enjoys turning ideas into shipped products. My work spans architecture, hands-on development, and production releases. I’ve led and contributed across PaaS and SaaS environments, working on sports betting platforms, AI-driven products, and custom applications.
+I’m a Software Development Consultant with experience building and delivering web and mobile products across startups and enterprises. I work closely with founders, product teams, and engineers to take ideas from concept to production.
 
-## What I Bring
-- End-to-end delivery of software projects from planning to launch
-- Hands-on development across frontend and backend systems
-- Team ownership, code reviews, and mentoring engineers
-- Pragmatic problem solving with a focus on maintainability and delivery
+My work spans PaaS and SaaS platforms, with hands-on involvement in architecture, development, code reviews, and delivery. I’ve contributed to and led projects in domains like sports betting systems, AI-driven products, multi-tenant platforms, and custom business applications.
 
-## Where I’ve Worked
-I’ve collaborated with product and engineering teams building:
-- Sports tech and betting systems
-- Agentic AI products
-- Custom business platforms and internal tools
+## What I Work On
+- End-to-end delivery of software projects
+- Hands-on development using JavaScript and related ecosystems
+- Frontend and backend system design
+- Designing and maintaining multi-tenant architectures
+- Code reviews, mentoring, and team guidance
+- Translating business requirements into practical technical solutions
 
-## Thoughts & Writing
-I write about practical engineering topics such as job-queue patterns, Node.js tooling, Web3 basics, React, and performance. These are based on problems I’ve encountered and solved in real projects.
+## Experience
+I’ve worked with startups and established organizations, including enterprise and product-led SaaS teams. My experience includes:
+- Sports tech and betting platforms
+- Agentic and AI-enabled products
+- Subscription-based and PLG systems
+- Multi-tenant SaaS platforms
+- Custom internal tools and business platforms
+
+## Writing
+I write about practical engineering topics based on real project work. This includes Node.js tooling, background jobs and queues, React and performance, and Web3 basics.  
+📘 https://medium.com/@gupta27
 
 ## Let’s Connect
-📘 Medium: https://medium.com/@gupta27  
-🔗 LinkedIn: https://www.linkedin.com/in/dhwajgupta/
+🔗 LinkedIn: https://www.linkedin.com/in/dhwajgupta  
+📧 Email: dhwajgupta27@gmail.com
